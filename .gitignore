@@ -1,0 +1,8 @@
+.idea
+__pycache__
+.venv
+.env
+extra-curricular-activity
+debugger.py
+NOTES.md
+
